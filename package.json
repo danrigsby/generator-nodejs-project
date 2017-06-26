@@ -1,6 +1,6 @@
 {
   "name": "generator-nodejs-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yoeman generator for new node projects.",
   "main": "app/index.js",
   "scripts": {
