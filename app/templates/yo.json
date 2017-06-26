@@ -1,0 +1,8 @@
+{
+  "author": "<%=author%>",
+  "description": "<%=description%>",
+  "displayName": "<%=displayName%>",
+  "name": "<%=name%>",
+  "org": "<%=org%>",
+  "timestamp": "<%= timestamp %>"
+}
