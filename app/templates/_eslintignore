@@ -1,7 +1,8 @@
-android/**
-build/**
-dist/**
-ios/**
-lib/**
-node_modules/**
+android/
+build/
+dist/
+ios/
+lib/
+.vscode/
+node_modules/
 *.generated.js

@@ -165,7 +165,8 @@ module.exports = class extends Generator {
 
       // If this is an existing folder, do no update base folders
       if (!this.context.isExisting) {
-        mkdirp('src');
+        this._template('docs/CONTRIBUTING.md');
+        this._copy('src/index.js');
       }
   }
 

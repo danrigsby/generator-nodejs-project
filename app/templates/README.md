@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<%=description%>
+
 ## Installation
 ``` sh
 # npm
