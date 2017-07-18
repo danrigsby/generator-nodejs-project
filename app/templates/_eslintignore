@@ -1,8 +1,8 @@
+*.generated.js
+.vscode/
 android/
 build/
 dist/
 ios/
 lib/
-.vscode/
 node_modules/
-*.generated.js
